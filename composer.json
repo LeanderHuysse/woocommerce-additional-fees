@@ -1,0 +1,11 @@
+
+{
+  "name": "IOLabs/woocommerce-additional-fees",
+  "description": "Plugin mirror for: woocommerce-additional-fees",
+  "license": "GPL",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "v1.0.6"
+  }
+}
